@@ -9,7 +9,7 @@ import {
   Alert,
   Keyboard,
   TouchableWithoutFeedback,
-  Image, // ← добавили Image
+  Image,
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import TipOfTheDay from './TipOfTheDay';
